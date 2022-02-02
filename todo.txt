@@ -1,0 +1,5 @@
+1) Adjust Room to use Child instead of Value for performance.
+
+Reference : https://firebase.google.com/docs/database/admin/retrieve-data#child-added
+
+2)
