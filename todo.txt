@@ -2,4 +2,6 @@
 
 Reference : https://firebase.google.com/docs/database/admin/retrieve-data#child-added
 
-2)
+2) Adjust login with Facebook, Apple ...
+
+Reference: https://firebase.google.com/docs/auth/web/facebook-login
